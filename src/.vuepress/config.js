@@ -6,8 +6,8 @@ module.exports = {
 	themeConfig: {
 		repo: 'https://www.linkedin.com/in/arietimmerman',
 		repoLabel: 'LinkedIn',
-		editLinks: true,
-		editLinkText: 'Found a bug? Help me improve this page!',
+		// editLinks: true,
+		// editLinkText: 'Found a bug? Help me improve this page!',
 
 		locales: {
 			// The key is the path for the locale to be nested under.

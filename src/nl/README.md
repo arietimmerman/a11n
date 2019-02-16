@@ -12,7 +12,7 @@ features:
   details: Don't know what product to buy? A few days of consultancy helps you out.
 - title: Access control policy administration
   details: Policy 
-footer: MIT Licensed | Copyright © 2018-present Evan You
+footer: presented to you by Arie Timmerman
 ---
 
 # Blog Posts    

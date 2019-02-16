@@ -4,9 +4,6 @@
 
 ## SailPoint IdentityIQ
 
-
-
-
 <img src="/images/sailpoint-dashboard.png" />
 
 
