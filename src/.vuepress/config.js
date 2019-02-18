@@ -38,23 +38,14 @@ module.exports = {
 					{ text: 'Auth0', link: '/products/auth0/' },
 					{ text: 'iWelcome', link: '/products/iwelcome/' },
 					{ text: 'MuleSoft', link: '/products/mulesoft/' },
+					{ text: 'RSA IGL / Aveksa', link: '/products/rsa/' },
 					
 				]},
 
 				
 			],
-			},
-			'/nl/': {
-			  lang: 'Nederlands',
-			  title: 'a11n.nl',
-			  description: 'Identiteits',
-
-			  nav: [
-				{ text: 'Home', link: '/' }, 
-				{ text: 'Blog (Engels)', link: '/blog' }
-			],
-
 			}
+
 		  },
 
 		
@@ -69,11 +60,6 @@ module.exports = {
 		  lang: 'English', // this will be set as the lang attribute on <html>
 		  title: 'a11n.nl',
 		  description: 'Identity Services - SailPoint, Auth0, iWelcome'
-		},
-		'/nl/': {
-		  lang: 'Nederlands',
-		  title: 'a11n.nl',
-		  description: 'Identiteits'
 		}
 	  },
 	
