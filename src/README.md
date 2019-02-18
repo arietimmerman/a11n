@@ -8,13 +8,9 @@ actionLink: /about/
 features:
 - title: Identity and access governance
   details: Providing both identity engineering and identity solution architecture services.
-- title: Security access management
-  details: Don't know what product to buy? A few days of consultancy helps you out.
-- title: Access control policy administration
-  details: Policy 
-footer: MIT Licensed | Copyright © 2018-present Evan You
+- title: Security Access Management
+  details: Improve both user experience and security by implementing better access controls
+- title: Access Policy Organization
+  details: Ensure the right policies are setup, can be easily administred and are enforced on all endpoints 
+footer: © 2019-present Arie Timmerman
 ---
-
-# Blog Posts    
-
-einde

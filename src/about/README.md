@@ -15,6 +15,7 @@ The a11n company provides the following services.
 
 * Identity Solution Architecture
 * Identity Solution Implementation
+* API Gateway Implementation
 * Rapid Identity Solution Prototyping
 
 Occasionaly - because its fun - we spend some days developing software. Primarly for rapid prototyping. Moreover, again occasionaly, we apply TRIZ in order to innovate.
