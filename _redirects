@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://a11n.netlify.com/* http://www.a11n.nl/:splat 301!
