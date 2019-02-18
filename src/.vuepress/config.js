@@ -25,15 +25,20 @@ module.exports = {
 				] }, 
 				{ text: 'Services', items: [
 					{ text: 'Identity Solution Architecture', link: '/services/solution_architecture/' },
-					{ text: 'Identity Innovation', link: '/services/solution_architecture/' },
+					{ text: 'Identity Solution Implementation', link: '/services/identity_solution_implementation/' },
+					{ text: 'Rapid Identity Prototyping', link: '/services/rapid_identity_prototyping/' },
+					{ text: 'API Gateway', link: '/services/api_gateway_implementation/' },
+
 					
 				] }, 
 
 				{ text: 'Products', items: [
-					{ text: 'SailPoint IdentityIQ', link: '/products/sailpoint/' },
+					{ text: 'SailPoint', link: '/products/sailpoint/' },
 					{ text: 'ForgeRock', link: '/products/forgerock/' },
 					{ text: 'Auth0', link: '/products/auth0/' },
-					{ text: 'iWelcome', link: '/products/iwelcome/' }
+					{ text: 'iWelcome', link: '/products/iwelcome/' },
+					{ text: 'MuleSoft', link: '/products/mulesoft/' },
+					
 				]},
 
 				

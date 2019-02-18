@@ -1,5 +1,4 @@
-# ForgeRock
-
+# Integrating ForgeRock products
 
 ## ForgeRock Access Manager
 
