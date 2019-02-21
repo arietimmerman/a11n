@@ -7,9 +7,7 @@ Their primary products are SailPoint IdentityIQ, SailPoint SecurityIQ and SailPo
 
 ## SailPoint IdentityIQ
 
-<img src="/images/sailpoint-dashboard.png" />
-
-SailPoint IdentityIQ is a mature product and know to be used in many global entreprises.
+SailPoint IdentityIQ is a mature product and know to be used in many global enterprises.
 
 <div class="callout">
 <p>
