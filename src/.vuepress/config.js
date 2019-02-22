@@ -70,14 +70,14 @@ module.exports = {
 		[
 			'@vuepress/google-analytics',
 			{
-				ga: '' // UA-00000000-0
+				ga: 'UA-135020517-1' // UA-00000000-0
 			}
 		],
 		[
 			'vuepress-plugin-rss',
 			{
 				base_url: '/',
-				site_url: 'https://vuepressblog.org',
+				site_url: 'https://www.a11n.nl',
 				filter: frontmatter => frontmatter.date <= new Date(currentDateUTC),
 				count: 20
 			}
