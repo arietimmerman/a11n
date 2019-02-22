@@ -5,7 +5,7 @@ excerpt: "Some think that the NSA is able to decrypt all of our network traffic 
 type: post
 blog: true
 tags:
-    - Privilegs
+    - Privileges
     - Access
     - Identity
 ---

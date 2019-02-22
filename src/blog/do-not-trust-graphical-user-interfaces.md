@@ -5,7 +5,7 @@ excerpt: "We invest heavily in our fight against phishing: we teach our customer
 type: post
 blog: true
 tags:
-    - Privilegs
+    - Privileges
     - Access
     - Identity
 ---

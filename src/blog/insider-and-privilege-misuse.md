@@ -1,11 +1,11 @@
 ---
 title: Insider and privilege misuse? Digital fingerprints on your documents!
 date: 2015-03-25 20:47:18
-excerpt: Many organizations experience problems with employees leaking confidential information, accidentally or intentionally. Nevertheless, current identity and access management solutions focus on authorizations and access but provide little protection against insider and privilege misuse.
+excerpt: "Many organizations experience problems with employees leaking confidential information, accidentally or intentionally. Nevertheless, current identity and access management solutions focus on authorizations and access but provide little protection against insider and privilege misuse."
 type: post
 blog: true
 tags:
-    - Privilegs
+    - Privileges
     - Access
     - Identity
 ---

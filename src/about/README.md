@@ -3,7 +3,9 @@
 
 The __a11n__ company is an Identity Security Services organization dedicated to help you connect anything with confidence.
 
-__a11n__ uniquely combines academic insights with a pragmatic approach. We aim to deliver the most ideal solution within the timeframe and resources available.
+We uniquely combines academic insights with a pragmatic approach. The goal is to deliver the most ideal solution within the timeframe and resources available.
+
+## Focus areas
 
 The a11n company works together with other consultancy firms in the Netherlands, serving customers throughout Europe, though primarily in the Netherlands.
 
