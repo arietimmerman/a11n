@@ -18,6 +18,10 @@ The a11n company provides the following services.
 * [API Gateway Implementation](/services/api_gateway_implementation/)
 * [Rapid Identity Solution Prototyping](/services/rapid_identity_prototyping/)
 
+## Identity-as-a-service
+
+__a11n__ created [idaas.nl](https://www.idaas.nl/). Idaas.nl is an identity-as-a-service solution.
+
 ## Arie Timmerman
 
 <a href="https://www.linkedin.com/in/arietimmerman">Arie Timmerman</a> is the owner and sole employee of __a11n__. He has a background in security and identity and access management. With __a11n__ he provides a wide range of services.
