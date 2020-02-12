@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: /a11n-logo-plain.svg
-heroText: Identity Security Services
+heroText: Identity Architecture Services
 tagline: Verbind met vertrouwen
 actionText: Lees meer →
 actionLink: /nl/about/

@@ -51,7 +51,7 @@ module.exports = {
 		  },
 
 		
-		logo: '/a11n-logo-plain.svg',
+		logo: '/a11n-logo-plain-v2.svg',
 		docsDir: 'src'
 	},
 

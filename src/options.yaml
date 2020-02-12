@@ -1,0 +1,47 @@
+---
+
+questions:
+  - text: How important is SCIM for you?
+    multiple: false
+    answers:
+      - text: Very important
+        points:
+          - identityiq
+          - identityiq
+          - smartaim
+      - text: Not so important
+  - text: The product should have an OpenID Connect certification?
+    answers:
+      - text: Yes
+        points:
+          identityiq: 0
+      - text: No
+  - text: What do you prefer
+    answers:
+      - text: Cloud
+
+      - text: On-Premisse
+      - text: No preference
+  - text: I prefer an organization from this specific country
+    answers:
+      - text: Netherlands
+        points:
+          - SmartAIM
+  - text: Focus on GDPR
+    answers:
+      - text: Netherlands
+        points:
+          - SmartAIM
+
+
+products:
+  - name: SailPoint IdentityIQ
+    slug: identityiq
+  - name: Saviyint
+    slug: saviyint
+  - name: IBM
+    slug: ibm
+  - name: Auth0
+    slug: Auth0
+  
+  

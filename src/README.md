@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: /a11n-logo-plain.svg
-heroText: Identity Security Services
+heroImage: /a11n-logo-plain-v2.svg
+heroText: Identity Architecture Services
 tagline: Connect anything with confidence
 actionText: Learn more →
 actionLink: /about/
