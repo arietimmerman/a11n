@@ -4,7 +4,7 @@ module.exports = {
 	title: 'a11n.nl',
 	dest: './public',
 	themeConfig: {
-		repo: 'https://www.linkedin.com/in/arietimmerman',
+		repo: 'https://www.linkedin.com/in/arie',
 		repoLabel: 'LinkedIn',
 		// editLinks: true,
 		// editLinkText: 'Found a bug? Help me improve this page!',
@@ -44,6 +44,7 @@ module.exports = {
 							{ text: 'iWelcome', link: '/products/iwelcome/' },
 							{ text: 'MuleSoft', link: '/products/mulesoft/' },
 							{ text: 'RSA IGL / Aveksa', link: '/products/rsa/' },
+							{ text: 'List', link: '/products/list/' },
 
 						]
 					},
