@@ -14,7 +14,9 @@ Examples of solutions that - when implemented correctly - improve both security 
 
 ### ArchiMate
 
-### NORA
+ArchiMate is a visual modelling language for describing enterprise architectures.
+
+While many draw arhictectures, it is more difficult - yet import - to create diagrams with unambiguous meanings. ArchiMate is a well defined language and provides meaning to shapes and arrows and helps communicating an architecture in a clear and concise way.
 
 ## Architecture Certifications
 
@@ -66,5 +68,4 @@ It is a lot easier to work with OpenID Connect.
 
 ## FIDO
 
-The FIDO U2F Windows Hello
-
+FIDO is a standard for authentication. It allows your web browser to communicate with hardware authentication devices, such as USB tokens or bluetooth connected fingerprint readers. It is an universal protocol that allows making use of any hardware authentication device one can think of. It abstracted away from specific products by relying on public key cryptography.
