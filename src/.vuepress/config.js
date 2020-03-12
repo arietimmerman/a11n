@@ -68,7 +68,7 @@ module.exports = {
 		'/': {
 			lang: 'English', // this will be set as the lang attribute on <html>
 			title: 'a11n.nl',
-			description: 'Identity Services - SailPoint, Auth0, iWelcome'
+			description: 'Connect anything with confidence. We uniquely combines academic insights with a pragmatic approach.'
 		}
 	},
 
