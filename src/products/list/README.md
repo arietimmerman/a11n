@@ -4,17 +4,20 @@ A production selection starts with a long list. The __a11n__ organization helps 
 
 ## Governance
 
+* [Avatier](https://www.avatier.com)
+* [Beta Systems](https://www.betasystems-iam.com/en.html)
 * SailPoint IdentityIQ
 * Oracle Identity Governance
 * One Identity
+* [Core Security](https://www.coresecurity.com/iam-products)
 * Omada
 * midPoint
 * SmartAIM Authorisation Management Suite
 * IBM Security Identity Governance and Intelligence
 * Saviynt
-* CA Technologies
-* NetIQ Identity Governance
-* Hitachi ID Systems
+* [CA Identity Governance](https://www.idmworks.com/identity-access-management/ca-technologies-iam-solutions/)
+* [NetIQ Identity Governance](https://www.netiq.com/documentation/identity-governance-36/)
+* [Hitachi ID Systems](https://hitachi-id.com/)
 * Alert Enterprise
 * RSA IMG
 * Core Security
