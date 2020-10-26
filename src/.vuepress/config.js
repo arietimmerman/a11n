@@ -20,10 +20,7 @@ module.exports = {
 				nav: [
 					{ text: 'Home', link: '/' },
 					{
-						text: 'About', items: [
-							{ text: 'About us', link: '/about/' },
-							{ text: 'Blog', link: '/blog' }
-						]
+						text: 'About', link: '/about/'
 					},
 					{
 						text: 'Services', items: [
