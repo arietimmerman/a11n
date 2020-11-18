@@ -7,6 +7,7 @@ A production selection starts with a long list. The __a11n__ organization helps 
 * [Avatier](https://www.avatier.com)
 * [Beta Systems](https://www.betasystems-iam.com/en.html)
 * SailPoint IdentityIQ
+* RedSpider Identity Management
 * Oracle Identity Governance
 * One Identity
 * [Core Security](https://www.coresecurity.com/iam-products)
@@ -24,6 +25,7 @@ A production selection starts with a long list. The __a11n__ organization helps 
 * SAP
 * Atos (Evidian)
 * Apache Syncope
+* [IBIS](https://www.trusted-id.eu/identity-access-management-producten/ibis-identity-management/)
 
 ## Access Management
 

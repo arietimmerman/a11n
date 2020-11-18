@@ -24,17 +24,14 @@ module.exports = {
 					},
 					{
 						text: 'Services', items: [
-							{ text: 'Identity Solution Architecture', link: '/services/solution_architecture/' },
-							{ text: 'Identity Solution Implementation', link: '/services/identity_solution_implementation/' },
-							{ text: 'Rapid Identity Prototyping', link: '/services/rapid_identity_prototyping/' },
+							{ text: 'Architecture', link: '/services/solution_architecture/' },
+							{ text: 'Implementation', link: '/services/identity_solution_implementation/' },
 							{ text: 'API Gateway', link: '/services/api_gateway_implementation/' },
-
-
 						]
 					},
 
 					{
-						text: 'Products', items: [
+						text: 'Vendors', items: [
 							{ text: 'SailPoint', link: '/products/sailpoint/' },
 							{ text: 'ForgeRock', link: '/products/forgerock/' },
 							{ text: 'Auth0', link: '/products/auth0/' },

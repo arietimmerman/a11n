@@ -1,14 +1,14 @@
 ---
 home: true
 heroImage: /a11n-logo-plain-v2.svg
-heroText: Identity at the Center  
-tagline: Identity and Access Management Consultancy
+heroText: Identity at the Center 🎯  
+tagline: Independent IAM Consultancy
 actionText: Learn more →
 actionLink: /about/
 features:
 - title: Identity and Access Governance
   details: Get to know who has access to what. Provision the right access at the right time.
-- title: Security Access Management
+- title: Access Management
   details: Improve both user experience and security by implementing better access controls
 - title: Access Policy Organization
   details: Ensure the right policies are setup, can be easily administered and are enforced on all endpoints 

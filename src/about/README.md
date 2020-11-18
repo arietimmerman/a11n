@@ -1,7 +1,7 @@
 
 # About a11n
 
-The __a11n__ company is an Identity Security Services organization dedicated to help you connect anything with confidence.
+The __a11n__ company is an idependent Identity and Access Management consultancy organization dedicated to help you connect anything with confidence.
 
 We uniquely combines academic insights with a pragmatic approach. The goal is to deliver the most ideal solution within the timeframe and resources available.
 
@@ -13,10 +13,9 @@ Being vendor independent allows a11n to best service the customer's interest. No
 
 The a11n company provides the following services.
 
-* [Identity Solution Architecture](/services/solution_architecture/)
-* [Identity Solution Implementation](/services/identity_solution_implementation/)
-* [API Gateway Implementation](/services/api_gateway_implementation/)
-* [Rapid Identity Solution Prototyping](/services/rapid_identity_prototyping/)
+* [Architecting](/services/solution_architecture/)
+* [Implementing](/services/identity_solution_implementation/)
+* [Prototyping](/services/rapid_identity_prototyping/)
 
 ## Identity-as-a-service
 
