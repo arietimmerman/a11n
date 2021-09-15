@@ -35,7 +35,6 @@ module.exports = {
 							{ text: 'SailPoint', link: '/products/sailpoint/' },
 							{ text: 'ForgeRock', link: '/products/forgerock/' },
 							{ text: 'Auth0', link: '/products/auth0/' },
-							{ text: 'iWelcome', link: '/products/iwelcome/' },
 							{ text: 'MuleSoft', link: '/products/mulesoft/' },
 							{ text: 'RSA IGL / Aveksa', link: '/products/rsa/' },
 							{ text: 'List', link: '/products/list/' },
