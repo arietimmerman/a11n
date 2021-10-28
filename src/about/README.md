@@ -25,4 +25,4 @@ __a11n__ created [idaas.nl](https://www.idaas.nl/). Idaas.nl is an identity-as-a
 
 <a href="https://www.linkedin.com/in/arietimmerman">Arie Timmerman</a> is the owner and sole employee of __a11n__. He has a background in security and identity and access management. With __a11n__ he provides a wide range of services.
 
-Arie participated in over 20 identity centered projects in different industries. He holds a master's degree in Business Information Technology, and a bachelor in Computer Science. He passed exams of SABSA, CISSP, TOGAF Foundation, ITIL Foundation, PRINCE2 Foundation, SailPoint IdentityIQ Engineer, ForgeRock AM, SecurityIQ and iWelcome.
+Arie Timmerman _MSc CISSP CIPP/E SCF_ participated in over 20 identity centered projects in different industries. He holds a master's degree in Business Information Technology, and a bachelor in Computer Science. He passed exams of SABSA, CISSP, CIPP/E, TOGAF Foundation, ITIL Foundation, PRINCE2 Foundation, SailPoint IdentityIQ Engineer, ForgeRock AM, SecurityIQ and iWelcome.

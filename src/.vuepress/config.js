@@ -22,6 +22,7 @@ module.exports = {
 					{
 						text: 'About', link: '/about/'
 					},
+					/*
 					{
 						text: 'Services', items: [
 							{ text: 'Architecture', link: '/services/solution_architecture/' },
@@ -29,7 +30,8 @@ module.exports = {
 							{ text: 'API Gateway', link: '/services/api_gateway_implementation/' },
 						]
 					},
-
+					*/
+/*
 					{
 						text: 'Vendors', items: [
 							{ text: 'SailPoint', link: '/products/sailpoint/' },
@@ -41,7 +43,7 @@ module.exports = {
 
 						]
 					},
-
+*/
 					{ text: 'Contact', link: '/contact/' },
 
 
