@@ -15,7 +15,6 @@ The a11n company provides the following services.
 
 * [Architecting](/services/solution_architecture/)
 * [Implementing](/services/identity_solution_implementation/)
-* [Prototyping](/services/rapid_identity_prototyping/)
 
 ## Identity-as-a-service
 

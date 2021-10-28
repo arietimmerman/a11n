@@ -22,6 +22,11 @@ module.exports = {
 					{
 						text: 'About', link: '/about/'
 					},
+					{
+						text: 'Software', items: [
+							{ text: 'SailPoint IdentityIQ', link: '/software/sailpoint/' },
+						]
+					},
 					/*
 					{
 						text: 'Services', items: [
