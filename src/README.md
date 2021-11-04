@@ -2,7 +2,7 @@
 home: true
 heroImage: /a11n-logo-plain-v2.svg
 heroText: Independent IAM Consultancy
-tagline: Identity at the Center 🎯
+tagline: Helps you solve identity technology challenges.
 actionText: Learn more →
 actionLink: /about/
 features:
