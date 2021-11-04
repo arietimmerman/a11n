@@ -7,6 +7,8 @@ SailPoint provides an out-of-the-box connector which offers some functionalities
 
 We have an __improved connector__ that overcomes these limitations.
 
+<Button />
+
 ## Feature Improvements
 
 The out-of-the-box SailPoint connector supports the following.
@@ -56,3 +58,6 @@ Our connector reads in the list of API permissions and what permissions have bee
 The improved connector is designed with an hybrid environment in mind. While it can just as well work with a cloud-only environment, 
 
 It waits for Azure AD Connect to create and delete the users if needed. While the connector manages what is not managed on-premise. Such as cloud-only group assignments.
+
+<Button />
+
