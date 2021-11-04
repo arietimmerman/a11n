@@ -35,11 +35,14 @@ The ability to create and assign application roles is a great feature in Azure A
 
 With our improved connector one can aggregate all application roles from all applications, and in turn manage application role memberships from SailPoint IdentityIQ or SailPoint IdentityNow.
 
+![Screenshot of managing Application Roles](/images/azuread-application-roles.png)
 ### Manage guest users
 
 External hires can be on-boarded in Azure AD as guest-users. This allows third parties to use their own company login credentials to access resources within your organization. This benefits both user experience and security.
 
 Our improved connector allows creating guest users and managing all of its group and application role memberships.
+
+![Screenshot of adding Guest Users](/images/azuread-guest-users.png)
 
 ### Read applications
 
@@ -58,6 +61,12 @@ Our connector reads in the list of API permissions and what permissions have bee
 The improved connector is designed with an hybrid environment in mind. While it can just as well work with a cloud-only environment, 
 
 It waits for Azure AD Connect to create and delete the users if needed. While the connector manages what is not managed on-premise. Such as cloud-only group assignments.
+
+# Request a demo
+
+We would love to show you our connector and tell you about all the functionalities described and more.
+
+Get the best out of Azure AD and improve governance for identities and access.
 
 <Button />
 
