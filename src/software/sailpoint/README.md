@@ -33,7 +33,7 @@ The Improved Azure AD connector extends the standard SailPoint connector. It int
 
 The ability to create and assign application roles is a great feature in Azure AD. In an (on premise) Active Directory it was only possible to use groups. In Azure AD one can create application roles per connected application. This greatly improves authorization management and benefits visibility.
 
-With our improved connector one can aggregate all application roles from all applications, and in turn manage application role memberships from SailPoint IdentityIQ.
+With our improved connector one can aggregate all application roles from all applications, and in turn manage application role memberships from SailPoint IdentityIQ or SailPoint IdentityNow.
 
 ### Manage guest users
 
