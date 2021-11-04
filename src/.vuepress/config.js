@@ -24,7 +24,7 @@ module.exports = {
 					},
 					{
 						text: 'Software', items: [
-							{ text: 'SailPoint IdentityIQ', link: '/software/sailpoint/' },
+							{ text: 'Azure AD connector for SailPoint', link: '/software/sailpoint/' },
 						]
 					},
 					/*

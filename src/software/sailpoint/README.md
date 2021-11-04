@@ -1,4 +1,4 @@
-# Azure AD connector for SailPoint IdentityIQ
+# Azure AD connector for SailPoint
 
 Azure Active Directory (Azure AD) is the cloud-based identity and access management service from Microsoft. It is a key component for signing in your employees and to manage access to resources.
 
