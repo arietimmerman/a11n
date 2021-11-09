@@ -5,7 +5,7 @@
   <span class="button-82-shadow"></span>
   <span class="button-82-edge"></span>
   <span class="button-82-front text">
-    Request a demo
+    {{ title }}
   </span>
 
 </button>
@@ -16,6 +16,7 @@
 <script>
 
 export default {
+  props: ['title'],
     mounted() {
       let recaptchaScript = document.createElement('script');
       recaptchaScript.setAttribute('src', '//embed.typeform.com/next/embed.js')

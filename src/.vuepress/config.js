@@ -27,6 +27,11 @@ module.exports = {
 							{ text: 'Azure AD connector for SailPoint', link: '/software/sailpoint/' },
 						]
 					},
+					{
+						text: 'Workshops', items: [
+							{ text: 'Identity Governance and Azure AD', link: '/workshops/azuread/' },
+						]
+					},
 					/*
 					{
 						text: 'Services', items: [

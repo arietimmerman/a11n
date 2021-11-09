@@ -7,7 +7,7 @@ SailPoint provides an out-of-the-box connector which offers some functionalities
 
 We have an __improved connector__ that overcomes these limitations.
 
-<Button />
+<Button title="Request Download" />
 
 ## Feature Improvements
 
@@ -68,5 +68,4 @@ We would love to show you our connector and tell you about all the functionaliti
 
 Get the best out of Azure AD and improve governance for identities and access.
 
-<Button />
-
+<Button title="Request Download" />
