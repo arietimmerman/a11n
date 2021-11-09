@@ -5,7 +5,7 @@ This workshops walks through the functionalities of Azure AD relevant for identi
 
 In many organizations Azure AD is a central tool for providing access to a wide range of applications.
 
-Usually, a part of Azure AD is managed with identity governance tooling from SailPoint, Omada, Oracle or from one of the many other vendors. What is managed and how this is done differs in each organization. All too often cloud-group memberships of regular users is all what is managed.
+Usually, a part of Azure AD is managed with identity governance tooling from SailPoint, Omada, Saviynt or from one of the many other vendors. What is managed and how this is done differs in each organization. All too often cloud-group memberships of regular users is all what is managed.
 
 This 2-hour workshops covers (1) how to leverage Azure AD functionalities for Identity and Access Management (IAM) and (2) how to integrate these with other IAM tooling. Among other topics, the topics below are discussed.
 
