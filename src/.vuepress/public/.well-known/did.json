@@ -1,0 +1,48 @@
+{
+    "id": "did:web:www.a11n.nl",
+    "@context": [
+      "https://www.w3.org/ns/did/v1",
+      {
+        "@base": "did:web:www.a11n.nl"
+      }
+    ],
+    "service": [
+      {
+        "id": "#linkeddomains",
+        "type": "LinkedDomains",
+        "serviceEndpoint": {
+          "origins": [
+            "https://www.a11n.nl/"
+          ]
+        }
+      },
+      {
+        "id": "#hub",
+        "type": "IdentityHub",
+        "serviceEndpoint": {
+          "instances": [
+            "https://hub.did.msidentity.com/v1.0/eb91afec-3633-4400-b8fb-56a089b3cf2c"
+          ]
+        }
+      }
+    ],
+    "verificationMethod": [
+      {
+        "id": "#de820455ba3e452699e6d59806758321vcSigningKey-e7a1d",
+        "controller": "did:web:www.a11n.nl",
+        "type": "EcdsaSecp256k1VerificationKey2019",
+        "publicKeyJwk": {
+          "crv": "secp256k1",
+          "kty": "EC",
+          "x": "A_4IKs4PrklsvuW10Z_LdMBWUHZxuHpv4U7YjnaPxJw",
+          "y": "ouWQMBnaDEfwWBsHfoRDgO8-t53NfvCnUEz_3tJ5g3o"
+        }
+      }
+    ],
+    "authentication": [
+      "#de820455ba3e452699e6d59806758321vcSigningKey-e7a1d"
+    ],
+    "assertionMethod": [
+      "#de820455ba3e452699e6d59806758321vcSigningKey-e7a1d"
+    ]
+  }
